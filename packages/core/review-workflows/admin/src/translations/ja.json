@@ -1,0 +1,8 @@
+{
+  "settings.page.title": "レビュー ワークフロー",
+  "settings.page.subtitle": "{count, plural, one {# 段階} other {# 段階}}",
+  "settings.page.isLoading": "ワークフローを読み込んでいます",
+  "settings.page.delete.confirm.body": "削除された段階に割り当てられているすべてのエントリは前の段階に移動されます。本当に保存してもよろしいですか？",
+  "settings.stage.name.label": "段階名",
+  "settings.not-available": "レビュー ワークフローはエンタープライズ エディションの一部としてのみ利用可能です。ワークフローを作成および管理するには、アップグレードしてください。"
+}
